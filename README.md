@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Chase Seidel.
+### I am a software engineer focused on full stack development.
+
+### Skills
+### [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **chaseseidel/chaseseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
