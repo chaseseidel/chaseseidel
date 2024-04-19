@@ -2,7 +2,7 @@
 ### I am a software engineer focused on full stack development.
 
 ### Skills
-### [![My Skills](https://skillicons.dev/icons?i=ts,mysql,postgresql,react,nodejs,mongodb,git,html,css&perline=5)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css&perline=5)](https://skillicons.dev)
 
 <!--
 **chaseseidel/chaseseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
