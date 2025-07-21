@@ -5,11 +5,9 @@
 
 🚀 Projects I’ve built include:
 
-A real-time tryout evaluation platform used across 4 club locations for 800+ athletes per season
-
-Workflow tools for field service operations: work orders, proposals, digital signatures, payment integrations
-
-Internal tools like schedulers, metadata-driven file services, and approval systems
+- A real-time tryout evaluation platform used across 4 club locations for 800+ athletes per season
+- Workflow tools for field service operations: work orders, proposals, digital signatures, payment integrations
+- Internal tools like schedulers, metadata-driven file services, and approval systems
 
 🏐 Off the keyboard, I coach youth volleyball—leading top-ranked teams and building systems for player development and evaluation.
 
