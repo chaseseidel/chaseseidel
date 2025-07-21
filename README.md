@@ -16,7 +16,7 @@ Internal tools like schedulers, metadata-driven file services, and approval syst
 💬 Open to collaboration and always happy to talk shop.
 
 ### Skills
-### [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs,aws&perline=5)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs&perline=6)](https://skillicons.dev)
 
 <!--
 **chaseseidel/chaseseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
