@@ -14,7 +14,7 @@ I also coach youth volleyball, where I lead top-ranked teams and build tools to 
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,postgresql,supabase,tailwindcss,nestjs,nodejs,mongodb,html,css,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs&perline=6)](https://skillicons.dev)
 
 ---
 
