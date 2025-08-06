@@ -1,32 +1,24 @@
-### 👋 Hi, My name is Chase Seidel.
-#### I'm a full-stack engineer focused on building performant, scalable apps that actually solve real-world problems.
+### 👋 Chase Seidel
 
-🔧 I mostly work with TypeScript, React, Supabase, and PostgreSQL. I care deeply about developer experience, clean abstractions, and intuitive UI/UX.
+#### Software Engineer
 
-🚀 Projects I’ve built include:
+I design and build reliable, high-performance software systems with a strong emphasis on maintainability, clear abstractions, and user-centered design.
 
-- A real-time tryout evaluation platform used across 4 club locations for 800+ athletes per season
-- Workflow tools for field service operations: work orders, proposals, digital signatures, payment integrations
-- Internal tools like schedulers, metadata-driven file services, and approval systems
+---
 
-🏐 Off the keyboard, I coach youth volleyball—leading top-ranked teams and building systems for player development and evaluation.
+### 🏐 Beyond Code
 
-💬 Open to collaboration and always happy to talk shop.
+I also coach youth volleyball, where I lead top-ranked teams and build tools to streamline player development and evaluation—bringing the same engineering mindset of systems, feedback loops, and iteration into coaching.
 
-### Skills
-### [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs&perline=6)](https://skillicons.dev)
+---
 
-<!--
-**chaseseidel/chaseseidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ts,react,postgresql,supabase,tailwindcss,nestjs,nodejs,mongodb,html,css,git&perline=6)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Reach Out
+
+I'm always open to conversations about system design, developer tooling, and technical leadership.  
+Feel free to connect or reach out directly.
