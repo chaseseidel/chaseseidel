@@ -1,24 +1,19 @@
-### 👋 Chase Seidel
+# Hi, I’m Chase 👋
 
-#### Software Engineer
-
-I design and build reliable, high-performance software systems with a strong emphasis on maintainability, clear abstractions, and user-centered design.
+I’m a full-stack software engineer who builds systems that scale and perform in production. My work spans backend services, APIs, and frontend interfaces, with a focus on maintainable code, solid architecture, and measurable results.
 
 ---
 
-### 🏐 Beyond Code
-
-I also coach youth volleyball, where I lead top-ranked teams and build tools to streamline player development and evaluation—bringing the same engineering mindset of systems, feedback loops, and iteration into coaching.
-
----
-
-### 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs&perline=6)](https://skillicons.dev)
 
 ---
 
-### 📫 Reach Out
+## 📈 What I’m Focused On
 
-I'm always open to conversations about system design, developer tooling, and technical leadership.  
-Feel free to connect or reach out directly.
+- Designing **scalable backend architectures** that hold up under real-world load  
+- Improving **developer velocity** through better tooling and automation  
+- Building **user-focused interfaces** that make complex workflows simple  
+
+---
