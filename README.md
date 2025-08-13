@@ -4,9 +4,19 @@ I’m a full-stack software engineer who builds systems that scale and perform i
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwindcss,mysql,postgresql,react,nodejs,mongodb,git,html,css,supabase,nestjs&perline=6)](https://skillicons.dev)
+**Languages & Frameworks**  
+TypeScript · JavaScript · Node.js · NestJS · React.js · Express.js  
+
+**Databases**  
+PostgreSQL · MySQL · MongoDB · Supabase · SQL Optimization  
+
+**DevOps & Tools**  
+Docker · AWS · GitHub Actions · CI/CD Pipelines · REST APIs · Postman  
+
+**Other**  
+Agile Methodologies · Tailwind CSS · API Design · Observability & Monitoring
 
 ---
 
@@ -15,5 +25,3 @@ I’m a full-stack software engineer who builds systems that scale and perform i
 - Designing **scalable backend architectures** that hold up under real-world load  
 - Improving **developer velocity** through better tooling and automation  
 - Building **user-focused interfaces** that make complex workflows simple  
-
----
